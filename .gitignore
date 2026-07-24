@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pt
+*.mp4
+*.wav
+app.py
+fast_summary.py
+test_output.txt
+input2.txt
